@@ -17,6 +17,7 @@ i18n.zh = { path = "/announcing-zh", file = "announcing-zh.md", title = "宣布 
 file = "minilsm.md"
 title = "MiniLSM: A Tutorial of Building Storage Engine in a Week using Rust"
 author = "skyzh"
+topic = ["tutorial"]
 pub_date = "2022-12-30"
 publish = false
 featured = true
