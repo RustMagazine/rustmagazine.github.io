@@ -17,7 +17,8 @@ The author of [Rust Search Extension](https://github.com/huhu/rust-search-extens
 
 - [Github](https://github.com/folyd)
 - [Blog](https://folyd.com)
-"""}
+""" }
+skyzh = { avatar = "/static/avatar/skyzh.jpeg" }
 
 [theme]
 primary_color = "#f8e9b8"
